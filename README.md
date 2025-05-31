@@ -27,3 +27,6 @@ This project also supports academic research into the effectiveness of real-time
 - **Session Management:** UUID for room ID generation
 - **Hosting/Deployment:** Vercel (or equivalent)
 
+- ## Video Demonstration
+- https://youtu.be/h0H-qW1ZKvM
+
