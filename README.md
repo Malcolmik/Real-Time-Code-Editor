@@ -27,18 +27,3 @@ This project also supports academic research into the effectiveness of real-time
 - **Session Management:** UUID for room ID generation
 - **Hosting/Deployment:** Vercel (or equivalent)
 
----
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or above)
-- npm
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/live-editor.git
-   cd live-editor
